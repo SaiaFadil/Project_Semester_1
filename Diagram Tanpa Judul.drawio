@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-09-20T06:39:43.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="y2NmdxccbLstvFZA4FAO" version="21.7.5" type="github">
+  <diagram name="Halaman-1" id="5f1X8sVy8MbIblJ1HEBR">
+    <mxGraphModel dx="1173" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-3" target="xnd50MsMKBAEyLLVBgyV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-5" target="xnd50MsMKBAEyLLVBgyV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-5" value="Menu Status" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-9" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-6" target="xnd50MsMKBAEyLLVBgyV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-11" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-6" target="xnd50MsMKBAEyLLVBgyV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-6" value="Apakah pengajuan izin pentas diterima?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-15" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-8" target="xnd50MsMKBAEyLLVBgyV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-22" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-8" target="xnd50MsMKBAEyLLVBgyV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-8" value="Apakah user ingin melihat detail pengajuan?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-13" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-10" target="xnd50MsMKBAEyLLVBgyV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-10" target="xnd50MsMKBAEyLLVBgyV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-10" value="Apakah pengajuan izin pentas ditolak?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="350" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-24" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-12" target="xnd50MsMKBAEyLLVBgyV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-12" target="xnd50MsMKBAEyLLVBgyV-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="640" />
+              <mxPoint x="1220" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-30" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xnd50MsMKBAEyLLVBgyV-29">
+          <mxGeometry x="-0.9083" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-12" value="Apakah user ingin melihat detail pengajuan?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="570" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-14" target="xnd50MsMKBAEyLLVBgyV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-14" value="User akan di arahkan ke menu detail pengajuan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="780" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-16" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="930" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-18" target="xnd50MsMKBAEyLLVBgyV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-18" value="Pada menu status akan muncul keterangan Proses" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="370" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-20" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-23" target="xnd50MsMKBAEyLLVBgyV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-23" value="User akan di arahkan ke menu detail pengajuan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="780" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xnd50MsMKBAEyLLVBgyV-25" target="xnd50MsMKBAEyLLVBgyV-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-25" value="Apakah user ingin membuat pengajuan ulang?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="920" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xnd50MsMKBAEyLLVBgyV-27" value="User melengkapi formulir yang salah pada menu detail pengajuan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1090" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
